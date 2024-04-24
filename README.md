@@ -5,8 +5,8 @@ My name's Desmond and I'm a Computer Science student at UBC
 Check out some of my personal projects:
 - [Teacher Salary](https://teachersalary.vercel.app/) - Comprehensive full-stack web application that allows you to access the salary information of nearly all teachers in British Columbia.
 - [We Need Housing](https://github.com/dezchai/we-need-housing) - Command-line TypeScript application that automatically refreshes Facebook, Craigslist, Vansky, and Wesbrook Properties tens of thousands of times per day in the search of a rental unit.
-- [dezutil](https://github.com/dezchai/dezutil) - Customizable and colourful logging module for Node.js applications
-- [AWS Proxy Creator](https://github.com/dezchai/aws-proxy-creator) - Command-line TypeScript application that automates creating a Squid HTTP reverse proxy on AWS Ubuntu instances
+- [dezutil](https://github.com/dezchai/dezutil) - Customizable and colourful logging module for Node.js applications.
+- [AWS Proxy Creator](https://github.com/dezchai/aws-proxy-creator) - Command-line TypeScript application that automates creating a Squid HTTP reverse proxy on AWS Ubuntu instances.
 <!--
 **dezchai/dezchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
